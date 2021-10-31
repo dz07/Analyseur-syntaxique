@@ -11,5 +11,5 @@
   > ./test.exe
   ```
  
- <img src="https://github.com/dz07/Analyseur-syntaxique" width="400" img align="right" title="Sample photo">
+ <img src="https://github.com/dz07/Analyseur-syntaxique/blob/main/c1.PNG" width="400" img align="center" title="Sample photo">
 
